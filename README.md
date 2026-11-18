@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: []
+- Live Site URL: [https://iiirnby.github.io/Article-Preview-Component/]
 
 ## My process
 
@@ -52,5 +52,5 @@ In the future, no matter how trite it may sound, I plan to dive deeper into JS. 
 
 ## Author
 
-- Website - [Add your name here]
+- Website - [https://iiirnby.github.io/Article-Preview-Component/]
 - Frontend Mentor - [@IIIRNBY]
